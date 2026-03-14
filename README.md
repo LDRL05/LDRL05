@@ -4,6 +4,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=University+of+Costa+Rica;Hardware+%26+Software+Design;Functional+Verification&center=true&width=650&height=60">
 </p>
 
+<p align="center">
+<img src="https://github.com/LDRL05/LDRL05/blob/output/github-contribution-grid-snake.svg">
+</p>
+
 ---
 
 ## 🖥️ Programming Languages
