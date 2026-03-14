@@ -1,6 +1,6 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Electrical+Engineering;University+of+Costa+Rica&center=true&width=500&height=50">
-</p>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Electrical+Engineering+Student;University+of+Costa+Rica&center=true&width=500&height=50">
+
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -14,3 +14,5 @@
 ![PSpice](https://img.shields.io/badge/PSpice-CC0000?style=for-the-badge&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+
+</p>
