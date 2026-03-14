@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/LDRL05/LDRL05/blob/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/LDRL05/LDRL05/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
