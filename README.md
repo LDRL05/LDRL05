@@ -1,5 +1,7 @@
+<h1 align="center">Electrical Engineering Student</h1>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Electrical+Engineering+Student;University+of+Costa+Rica&center=true&width=700&height=100">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=University+of+Costa+Rica;Hardware+%26+Software+Design;Functional+Verification&center=true&width=650&height=60">
 </p>
 
 ---
