@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Electrical+Engineering+Student;University+of+Costa+Rica&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Electrical+Engineering+Student;University+of+Costa+Rica&center=true&width=700&height=100">
 </p>
 
 ---
